@@ -64,6 +64,10 @@ Here are a few projects I've worked on:
 - 🌐 [LinkedIn](https://www.linkedin.com/in/faiz-samjani-72734919b/)
 - 🐙 [GitHub](https://github.com/Faizsamjani999)
 
+## Let's Connect!
+
+#WebDevelopment #MERNStack #JavaScript #React #Nodejs #FullStackDeveloper #OpenSource #Coding #Tech #WebDesign #opentowork #freelancer #freelancing #backenddeveloper #frontenddeveloper #fullstackmerndeveloper #expressjs #mongodb #nodejsdeveloper #rajkotit #ithr #mnc #internationalworkofit 
+
 ---
 
 ✨ Thanks for visiting my profile! Feel free to reach out if you'd like to connect or collaborate. Let’s create something amazing together!
